@@ -2,6 +2,12 @@
 
 Two dark themes for Path of Exile: **Better Trading Compact Dark** styles the Better Trading extension panel, and **PoE Trade Compact Dark** styles the official trade website.
 
+## Before and after
+
+| Without the themes | With the themes |
+| --- | --- |
+| ![Path of Exile trade page without the themes](before.png) | ![Path of Exile trade page with the themes](after.png) |
+
 ## Install the PoE trade website theme
 
 1. Install the [Stylus browser extension](https://github.com/openstyles/stylus).
